@@ -1,5 +1,6 @@
 #PIPEX
-#Description
+
+Description
 
 PipeX est un projet conçu pour initier les étudiants aux concepts de programmation multiprocessus en langage C. Ce projet met l'accent sur l'utilisation des tubes (pipes) pour établir des communications entre différents processus, simulant ainsi le fonctionnement de pipelines de commandes dans un environnement UNIX. En implémentant une chaîne de traitement de données à travers des tubes, les étudiants explorent les notions de création de processus, de redirection des flux d'entrée/sortie, et de synchronisation de l'exécution de processus.
 Objectifs Principaux
